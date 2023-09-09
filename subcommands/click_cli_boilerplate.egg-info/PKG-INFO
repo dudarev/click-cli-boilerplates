@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: click-cli-boilerplate
+Version: 0.1.0
+Summary: A boilerplate for creating CLI applications with Click
+Description-Content-Type: text/markdown
+Requires-Dist: Click>=8.1.7
+
+Demo how to use `click` to build a CLI with subcommands.
+
+## Installation
+
+```bash
+pip install -e .
+```
+
+## How to use
+
+```bash
+a entity-1 hello
+Hello from entity 1
+a entity-1 hey
+Hey from entity 1
+a entity-2 hello
+Hello from entity 2
+```
+
+## Features Demonstrated
+
+- `pyproject.toml`
+- Module structure
+- Subcommands
+- Tests

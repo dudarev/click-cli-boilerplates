@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+click_cli_boilerplate.egg-info/PKG-INFO
+click_cli_boilerplate.egg-info/SOURCES.txt
+click_cli_boilerplate.egg-info/dependency_links.txt
+click_cli_boilerplate.egg-info/entry_points.txt
+click_cli_boilerplate.egg-info/requires.txt
+click_cli_boilerplate.egg-info/top_level.txt
+src/__init__.py
+src/entity_1.py
+src/entity_2.py
+src/main.py
+tests/test_entity_1.py
+tests/test_entity_2.py
